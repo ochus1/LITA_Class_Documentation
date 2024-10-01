@@ -22,3 +22,6 @@
    Select * from Table 1
    where condition = True
    ```
+
+   ### Data Visualization:
+   
