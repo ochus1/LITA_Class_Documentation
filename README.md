@@ -1,6 +1,6 @@
 # LITA_Class_Documentation
 
-### Project Title:
+### Project Title: 
 
 [Project Overview](#project-overview)
 
