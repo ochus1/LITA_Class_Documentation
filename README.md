@@ -24,8 +24,11 @@
 -  ```SQL
    Select * from Table 1
    where condition = True
-   
-   ### Data Visualization:
+
+### Data Visualization:
+
+
+
 
    |Heading 1|Heading 2|Heading 3|
    |--------|--------|--------|
