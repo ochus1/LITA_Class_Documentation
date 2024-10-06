@@ -26,7 +26,7 @@
 ----
  The data source used in the report is data sales, csv file, that was gotten freely from kaggle [Download Here](https://kaggle.com)
 
-### Tools Used:
+### Tools Used: 
 ----
 - Microsoft Excel for Data Cleaning, Analysis and Visualization [Download Here](https://microsoft.com)
 - GitHub for portfolio Building [Download Here](https://github.com)
