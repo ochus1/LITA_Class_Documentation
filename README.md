@@ -24,14 +24,15 @@
 -  ```Microsoft Excel
    IF (J2 <= 20, "Low", IF(J2 <= 50, "Medium", "High"))
    ```
-   
+### Table
+
+   |Units Sold|Category|
+   |----------|--------|
+   |1 - 2|Low|
+   |21 - 50|Medium|
+   |> 50|High|
+
+
 ### Data Visualization:
-
-
-
-
-   |Heading 1|Heading 2|Heading 3|
-   |--------|--------|--------|
-   |Table 1|Table 2|Table 3|
     
    
