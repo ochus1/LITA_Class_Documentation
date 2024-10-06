@@ -19,6 +19,10 @@
 - GitHub for portfolio Building [Download Here](https://github.com)
 
 ### Data Cleaning and Preparations:
+----
+We started the Data cleaning and preparation as follows:
+- Data loading and inspection.
+- Data cleaning and formatting.
 
 ### Exploratory Data Analysis:
 
