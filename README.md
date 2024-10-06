@@ -4,12 +4,25 @@
 
 [Project Overview](#project-overview)
 
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Table](#table)
+
+[Data Visualization](#data-visualization)
 
 ### Project Overview: 
 ----
  This copier sales report is to have a deep insight into the sales performance for the period of two years, that is 2014 and 2015, considering the model, Region and Line Of Business. This parameters from the data received helped in gathering enough fact to tell a compelling story.
 
-### Data sources:
+### Data Sources:
 ----
  The data source used in the report is data sales, csv file, that was gotten freely from kaggle [Download Here](https://kaggle.com)
 
