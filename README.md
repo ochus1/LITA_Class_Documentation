@@ -25,6 +25,7 @@ We started the Data cleaning and preparation as follows:
 - Data cleaning and formatting.
 
 ### Exploratory Data Analysis:
+----
  Exploratory Data Analysis addresses the fact about the data such as:
  - Which Model are top in Sales.
  - Which Region has the overall Sales trend.
@@ -32,19 +33,20 @@ We started the Data cleaning and preparation as follows:
  - What Line Of Business has the highest unit sold
 
 ### Data Analysis:
+----
 - where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
 -  ```Microsoft Excel
    IF (J2 <= 20, "Low", IF(J2 <= 50, "Medium", "High"))
    ```
 ### Table
-
+----
    |Units Sold|Category|
    |----------|--------|
    |1 - 2|Low|
    |21 - 50|Medium|
    |> 50|High|
 
-
 ### Data Visualization:
+----
     
    
