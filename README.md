@@ -62,4 +62,23 @@ We started the Data cleaning and preparation as follows:
 ### Data Visualization:
 ----
     
-   
+![Sales by Region](https://github.com/user-attachments/assets/b6f119f2-dae3-467b-be5c-5a85fd3a1e24)
+
+
+
+
+![Sales by Model](https://github.com/user-attachments/assets/21910498-7e9c-4765-91fc-4bc31331dcba)
+
+
+
+ ![Unit Sold by Region](https://github.com/user-attachments/assets/ce56a2ec-4ccd-4be1-9cef-066670371751)
+
+
+![Uint Sold by Line Of Business](https://github.com/user-attachments/assets/e6b972ec-0dc0-448c-922f-0c040e593dfd)
+
+
+![Sales by Month](https://github.com/user-attachments/assets/0ef79a0a-e778-44cf-9e21-9e089de293c3)
+
+
+
+![Copier sales report](https://github.com/user-attachments/assets/5c0014db-ed1f-4e30-ac4d-33afa757ebb1)
