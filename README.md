@@ -1,19 +1,22 @@
 # LITA_Class_Documentation
 
-### Project Title: 
+### Project Title: Copier Sales Report
 
 [Project Overview](#project-overview)
 
 
-### Project Overview:
+### Project Overview: 
+----
+ This copier sales report is to have a deep insight into the sales performance for the period of two years, that is 2014 and 2015, considering the model, Region and Line Of Business. This parameters from the data received helped in gathering enough fact to tell a compelling story.
 
 ### Data sources:
+----
+ The data source used in the report is data sales, csv file, that was gotten freely from kaggle [Download Here](https://kaggle.com)
 
 ### Tools Used:
 ----
-- Microsoft Excel for data cleaning, analysis and visualization [Download Here](https://microsoft.com)
-- SQL - Structured Query Language for quering of data
-- GitHub for portfolio Builbing
+- Microsoft Excel for Data Cleaning, Analysis and Visualization [Download Here](https://microsoft.com)
+- GitHub for portfolio Building [Download Here](https://github.com)
 
 ### Data Cleaning and Preparations:
 
