@@ -4,6 +4,8 @@
 
 ### Project Title: Copier Sales Report
 
+![copier pix](https://github.com/user-attachments/assets/97fc5aec-6f80-4f9b-90d6-44bb5d0429d9)
+
 
 [Project Overview](#project-overview)
 
