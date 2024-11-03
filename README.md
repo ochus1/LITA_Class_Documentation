@@ -1,5 +1,7 @@
 # LITA_Class_Documentation
 
+[ClassWork 1](#project-title-copier-sales-report)
+
 ### Project Title: Copier Sales Report
 
 [Project Overview](#project-overview)
