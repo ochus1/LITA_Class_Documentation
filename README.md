@@ -2,6 +2,7 @@
 
 [ClassWork 1](#project-title-copier-sales-report)
 
+
 ### Project Title: Copier Sales Report
 
 ![copier pix](https://github.com/user-attachments/assets/97fc5aec-6f80-4f9b-90d6-44bb5d0429d9)
@@ -87,3 +88,6 @@ We started the Data cleaning and preparation as follows:
 
 
 ![Copier sales report](https://github.com/user-attachments/assets/5c0014db-ed1f-4e30-ac4d-33afa757ebb1)
+
+
+![Thank You](https://github.com/user-attachments/assets/b67e04e7-dfd8-4e95-9f92-0870ca24209e)
