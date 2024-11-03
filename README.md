@@ -104,19 +104,26 @@ We started the Data cleaning and preparation as follows:
 
 ### Project Title: Sales Data Analysis
 
+
+![20241102_122023](https://github.com/user-attachments/assets/379002bf-d37b-477e-afc7-541b30ab4712)
+
 ### Introduction: 
+---
 This is a project work given to me after completing my Ten weeks Data Analysis bootcamp with Incubator Hub under the Umbrella of Lady’s In Tech Africa (LITA). It’s to analysis sales of Product based on top performing product, Months and Regional breakdown for the period of two years. 
 
 ### Data Source:
+---
 The Data source used in this project is Sales Data, an Excel file containing just a table with fifty thousand rows and seven columns that was sent across the bootcamp by my Data Analysis Instructor (Mr. Temidayo TeeDee). 😄
 
 ### Tools Used:
+---
 - Microsoft Excel to calculate the Revenue column, Pivot table to Analyze the data.
 - SQL to query and manipulate the data.
 - Power BI to visualize.
 - GitHub for portfolio building.
 
 ### Data Cleaning and Preparations: 
+---
 I started the data cleaning and preparation as follows:
 - Data loading and inspection on Microsoft Excel 
 - Multiplying Quantity by Unit Price, Revenue was calculated. 
@@ -125,6 +132,7 @@ I started the data cleaning and preparation as follows:
 - Data loading and inspection on Power BI.
 
 ### Problem Statement:
+---
 - The total revenue for each product category.
 - Number of sales transactions in each Region.
 - Highest selling product by total revenue.
@@ -133,11 +141,13 @@ I started the data cleaning and preparation as follows:
 - Total revenue by product, Region and Month.
 
 ### Data Analysis:
+---
 
   = [Quantity] * [UnitPrice]
 
 
 ### Conclusions and Recommendations:
+---
 - The Total Revenue was 10,587,500.
 - The Total number of Customer was 50,000.
 - The Month of February 2024, recorded the highest Revenue which was 1,500,000 and April 2023 has the lowest Revenue month with a total of 37,500.
@@ -151,6 +161,43 @@ Jacket = 1,050,000
 Socks = 912,500
 - Numbers of customers per region are equal which is 12,500 for the four Regions.
 - Shoes and hats recorded the highest number of customers with a total number of 10,000 and all other products has the same number of customers which is 7,500.
+
+
+![Highest selling prod](https://github.com/user-attachments/assets/033375a0-9011-498b-ade1-9ce83b927f9a)
+
+
+![Monthly sales for curr  Year](https://github.com/user-attachments/assets/25a500fc-9561-4fbf-8aae-2cd6e25ffa8f)
+
+
+
+![top 5 customers](https://github.com/user-attachments/assets/402d819b-dfa3-4be5-906d-ffb88c28b8f9)
+
+
+
+![Salaes per Product](https://github.com/user-attachments/assets/d83471c8-9fc7-4862-bbb5-096689934e15)
+
+
+
+![Sale tran  Per Reg](https://github.com/user-attachments/assets/8fee085f-bed2-4e1b-a975-efa003f70a5a)
+
+
+
+![Pivot Table SD](https://github.com/user-attachments/assets/d621727d-fb4c-414b-bec2-5e4970959dee)
+
+
+
+
+![Power BI SD Dashboard](https://github.com/user-attachments/assets/dbcd9af0-953b-4de4-842f-c7380a94638b)
+
+
+
+
+
+![20241103_062106](https://github.com/user-attachments/assets/21972ab0-1df7-42b3-a9ea-5f9d3b898a41)
+
+
+
+
 
 
 
