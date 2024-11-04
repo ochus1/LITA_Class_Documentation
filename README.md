@@ -108,6 +108,25 @@ We started the Data cleaning and preparation as follows:
 
 ![20241102_122023](https://github.com/user-attachments/assets/379002bf-d37b-477e-afc7-541b30ab4712)
 
+
+[Introduction](#introduction)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
+[Problem Statement](#problem-statement)
+
+[Data Analysis](#data-analysis)
+
+[Table](#table)
+
+[Conclusions And Recommendations](#conclusions-and-recommendations)
+
+[Data Visualization](#data-visualization)
+
 ### Introduction: 
 ---
 This is a project work given to me after completing my Ten weeks Data Analysis bootcamp with Incubator Hub under the Umbrella of Lady’s In Tech Africa (LITA). It’s to analysis sales of Product based on top performing product, Months and Regional breakdown for the period of two years. 
@@ -146,8 +165,11 @@ I started the data cleaning and preparation as follows:
 
   = [Quantity] * [UnitPrice]
 
+### Table
+---
 
-### Conclusions and Recommendations:
+
+### Conclusions And Recommendations:
 ---
 - The Total Revenue was 10,587,500.
 - The Total number of Customer was 50,000.
@@ -162,6 +184,9 @@ Jacket = 1,050,000
 Socks = 912,500
 - Numbers of customers per region are equal which is 12,500 for the four Regions.
 - Shoes and hats recorded the highest number of customers with a total number of 10,000 and all other products has the same number of customers which is 7,500.
+  
+### Data Visualization:
+---
 
 
 ![Highest selling prod](https://github.com/user-attachments/assets/033375a0-9011-498b-ade1-9ce83b927f9a)
