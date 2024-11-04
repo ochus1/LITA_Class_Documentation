@@ -111,7 +111,7 @@ We started the Data cleaning and preparation as follows:
 
 [Introduction](#introduction)
 
-[Data Sources](#data-sources1)
+[Data Source](#data-source1)
 
 [Tools Used](#tools-used1)
 
@@ -236,7 +236,7 @@ Socks = 912,500
 
 [Project Overview](#project-overview2)
 
-[Data Sources](#data-sources2)
+[Data Source](#data-source2)
 
 [Tools Used](#tools-used2)
 
