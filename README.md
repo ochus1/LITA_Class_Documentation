@@ -4,7 +4,7 @@
 
 # **[Project 1](#project-title-sales-data-analysis)**
 
-# **[Project 2](project-title-customers-subscription-analysis)**
+# **[Project 2](project-title-customer-s-subscription-analysis)**
 
 ### Project Title: Copier Sales Report
 
