@@ -232,8 +232,25 @@ Socks = 912,500
 
 
 
-
 ![20241102_122159](https://github.com/user-attachments/assets/286ff9ca-e565-4ded-b394-68fd4e733bad)
+
+[Project Overview](#project-overview2)
+
+[Data Sources](#data-sources2)
+
+[Tools Used](#tools-used2)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations2)
+
+[Problem Statement](#problem-statement2)
+
+[Data Analysis](#data-analysis2)
+
+[Table](#table2)
+
+[Conclusions And Recommendations](#conclusions-and-recommendations2)
+
+[Data Visualization](#data-visualization2)
 
 
 ### Project Overview2: 
@@ -277,7 +294,7 @@ I started the data cleaning and preparation as follows:
   If Canceled = "TRUE", then output 1
   Else 0
 
- ### Table1
+ ### Table2
 ---
 
 ![Customer Table](https://github.com/user-attachments/assets/2b7caca2-8063-4623-ac51-fba436478474)
