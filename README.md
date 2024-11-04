@@ -207,6 +207,10 @@ Socks = 912,500
 
 
 
+![20241102_122159](https://github.com/user-attachments/assets/286ff9ca-e565-4ded-b394-68fd4e733bad)
+
+
+
 
 
 
