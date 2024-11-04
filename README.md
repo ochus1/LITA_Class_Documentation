@@ -280,6 +280,7 @@ I started the data cleaning and preparation as follows:
  ### Table1
 ---
 
+![Customer Table](https://github.com/user-attachments/assets/2b7caca2-8063-4623-ac51-fba436478474)
 
 
 ### Conclusions And Recommendations2:
@@ -296,16 +297,24 @@ I started the data cleaning and preparation as follows:
 ### Data Visualization2:
 ---
 
+![Rev  By sub Type](https://github.com/user-attachments/assets/880dfd29-be60-4a2b-8bda-43381d43beea)
+
+![Highest sub Type, DC, sql](https://github.com/user-attachments/assets/7f807225-7d94-480f-8257-027d042612cc)
 
 
+![No  of Active   Cancel](https://github.com/user-attachments/assets/a07ed572-381f-418a-a33a-134eb76b62bd)
 
 
+![No  of customers, CD, SQL](https://github.com/user-attachments/assets/ca988d1e-f4ac-4a0d-94bc-987cc99c4402)
 
 
+![Avg Sub  Duration, CD, SQL](https://github.com/user-attachments/assets/5da7e822-8962-47fc-993e-573dd7b3dd57)
 
 
+![Excel Pivot](https://github.com/user-attachments/assets/b9e44e9b-1574-4449-8c55-e97a9d8e195b)
 
 
+![Power BI Dashboard](https://github.com/user-attachments/assets/8ba570e3-2c1d-41f2-9650-bb713e896a2e)
 
 
-
+![20241103_062840](https://github.com/user-attachments/assets/0f86815d-fe3b-45f9-9609-3ef236f402be)
