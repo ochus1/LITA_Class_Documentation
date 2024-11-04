@@ -168,6 +168,8 @@ I started the data cleaning and preparation as follows:
 ### Table
 ---
 
+![Data Table](https://github.com/user-attachments/assets/5a43fde7-a041-4770-bcc6-fbe782d1ba19)
+
 
 ### Conclusions And Recommendations:
 ---
