@@ -4,7 +4,7 @@
 
 # **[Project 1](#project-title-sales-data-analysis)**
 
-# **[Project 2](project-title-customer-s-subscription-analysis)**
+# **[Project 2](project-title-customers-subscription-analysis)**
 
 ### Project Title: Copier Sales Report
 
@@ -202,7 +202,7 @@ Socks = 912,500
 
 
 
-### Project Title: Customer's Subscription Analysis
+### Project Title: Customers Subscription Analysis
 
 
 
