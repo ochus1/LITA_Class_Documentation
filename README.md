@@ -1,9 +1,10 @@
-# LITA_Class_Documentation
+# **LITA_Class_Documentation**
 
-[ClassWork 1](#project-title-copier-sales-report)
+# **[ClassWork 1](#project-title-copier-sales-report)**
 
-[Project 1](#project-title-sales-data-analysis)
+# **[Project 1](#project-title-sales-data-analysis)**
 
+# **[Project 2](project-title-customer's-subscription-analysis)**
 
 ### Project Title: Copier Sales Report
 
@@ -194,6 +195,14 @@ Socks = 912,500
 
 
 ![20241103_062106](https://github.com/user-attachments/assets/21972ab0-1df7-42b3-a9ea-5f9d3b898a41)
+
+
+
+
+
+
+
+### Project Title: Customer's Subscription Analysis
 
 
 
