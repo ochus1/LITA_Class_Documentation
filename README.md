@@ -111,38 +111,38 @@ We started the Data cleaning and preparation as follows:
 
 [Introduction](#introduction)
 
-[Data Sources](#data-sources)
+[Data Sources](#data-sources1)
 
-[Tools Used](#tools-used)
+[Tools Used](#tools-used1)
 
-[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+[Data Cleaning and Preparations](#data-cleaning-and-preparations1)
 
 [Problem Statement](#problem-statement)
 
-[Data Analysis](#data-analysis)
+[Data Analysis](#data-analysis1)
 
-[Table](#table)
+[Table](#table1)
 
 [Conclusions And Recommendations](#conclusions-and-recommendations)
 
-[Data Visualization](#data-visualization)
+[Data Visualization](#data-visualization1)
 
 ### Introduction: 
 ---
 This is a project work given to me after completing my Ten weeks Data Analysis bootcamp with Incubator Hub under the Umbrella of Lady’s In Tech Africa (LITA). It’s to analysis sales of Product based on top performing product, Months and Regional breakdown for the period of two years. 
 
-### Data Source:
+### Data Source1:
 ---
 The Data source used in this project is Sales Data, an Excel file containing just a table with fifty thousand rows and seven columns that was sent across the bootcamp by my Data Analysis Instructor (Mr. Temidayo TeeDee). 😄
 
-### Tools Used:
+### Tools Used1:
 ---
 - Microsoft Excel to calculate the Revenue column, Pivot table to Analyze the data.
 - SQL to query and manipulate the data.
 - Power BI to visualize.
 - GitHub for portfolio building.
 
-### Data Cleaning and Preparations: 
+### Data Cleaning and Preparations1: 
 ---
 I started the data cleaning and preparation as follows:
 - Data loading and inspection on Microsoft Excel 
@@ -160,12 +160,12 @@ I started the data cleaning and preparation as follows:
 - Top 5 customers with total purchase amount.
 - Total revenue by product, Region and Month.
 
-### Data Analysis:
+### Data Analysis1:
 ---
 
   = [Quantity] * [UnitPrice]
 
-### Table
+### Table1
 ---
 
 ![Data Table](https://github.com/user-attachments/assets/5a43fde7-a041-4770-bcc6-fbe782d1ba19)
@@ -187,7 +187,7 @@ Socks = 912,500
 - Numbers of customers per region are equal which is 12,500 for the four Regions.
 - Shoes and hats recorded the highest number of customers with a total number of 10,000 and all other products has the same number of customers which is 7,500.
   
-### Data Visualization:
+### Data Visualization1:
 ---
 
 
