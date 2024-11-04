@@ -237,18 +237,22 @@ Socks = 912,500
 
 
 ### Project Overview2: 
+---
 This is a project work given to me after completing my Ten weeks Data Analysis bootcamp with Incubator Hub under the Umbrella of Lady’s In Tech Africa (LITA). Its to analysis customer’s subscription trend, based on subscription type, Region and customers who have cancelled their subscriptions and the active ones for a period of two years. 
 
 ### Data Source2:
+---
 The Data source used In this project is Customer Data, an Excel file containing just a table with seventy-five thousand rows and eight columns that was sent across the bootcamp by my Data Analysis Instructor (Mr. Temidayo TeeDee).
 
 ### Tools Used2:
+---
 - Microsoft Excel to calculate subscription duration column, Pivot table to analyze the data.
 - SQL to query and manipulate the data.
 - Power BI used to add a conditional column and then visualization.
 - GitHub for portfolio building.
 
 ### Data Cleaning And Preparations2: 
+---
 I started the data cleaning and preparation as follows:
 - Data loading and inspection on Microsoft Excel 
 - Using the difference between subscription end and subscription start, subscription duration column was calculated. 
@@ -258,6 +262,7 @@ I started the data cleaning and preparation as follows:
 - Conditional column was created for canceled count and measures were created.
 
 ### Problem Statement2:
+---
 - The total number of customers from each Region.
 - Find the most popular subscription type by number of customers 
 - Find the subscription duration for each customer and the average subscription duration for all customer.
@@ -265,13 +270,20 @@ I started the data cleaning and preparation as follows:
 - Top 3 Regions by subscription cancellation.
 
 ### Data Analysis2:
+---
 
- = [SubscrptionEnd] – [SubscriptionStart]
+  = [SubscrptionEnd] – [SubscriptionStart]
  
- If Canceled = "TRUE", then output 1
- Else 0
+  If Canceled = "TRUE", then output 1
+  Else 0
+
+ ### Table1
+---
+
+
 
 ### Conclusions And Recommendations2:
+---
 - The Total Revenue was 149, 819,686
 - The Average subscription duration was 365 days 
 - The total number of customers was 75,000 and number of canceled subscriptions was 33,750 while active subscribers were 41,250
@@ -282,6 +294,7 @@ I started the data cleaning and preparation as follows:
 - Basic subscription type recorded the highest number of customers with a total number of 37,500 and both Premium and Standard has the same number of subscribed customers which is 18,750.
 
 ### Data Visualization2:
+---
 
 
 
