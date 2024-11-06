@@ -321,11 +321,28 @@ I started the data cleaning and preparation as follows:
 
 ### Data Analysis2:
 ---
-
-  = [SubscrptionEnd] – [SubscriptionStart]
- 
-  If Canceled = "TRUE", then output 1
-  Else 0
+Some of the lines of query used are as follows:
+  ```SQL
+    = [SubscrptionEnd] – [SubscriptionStart]
+ ```
+```POWER BI
+   If Canceled = "TRUE", then output 1
+   Else 0
+```
+Retrieve the total number of customers from each region
+```SQL
+   Select Region, count(CustomerID) Customer_Count
+   From Capstone_CustomerData
+   Group By Region
+   Order By Customer_Count Desc
+```
+Find the most popular subscription type by the number of customers
+```SQL
+   Select SubscriptionType, count(CustomerID) Customer_Count_Subscription
+   From Capstone_CustomerData
+   Group By SubscriptionType
+   Order By Customer_Count_Subscription Desc
+```
 
  ### Table2
 ---
