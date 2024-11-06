@@ -162,7 +162,40 @@ I started the data cleaning and preparation as follows:
 
 ### Data Analysis1:
 ---
-  = [Quantity] * [UnitPrice]
+Some lines of codes were used to carry out this analysis and they are shown below:
+
+ ```Microsoft Excel
+ = [Quantity] * [UnitPrice]
+```
+
+Retrieve the total sales for each product category
+
+ ```SQL
+ select Product, Sum(Revenue) Total_Sales
+  from capstone_salesdata
+  Group By Product
+  Order By Total_Sales Desc
+```
+
+Find the number of sales transactions in each region 
+
+  ```SQL
+  select Region, sum(Quantity) Sales_Transaction
+  from capstone_salesdata
+  Group By Region
+  order by Sales_Transaction desc
+```
+
+Find the highest selling product by total sales value
+
+  ```SQL
+  select Product, SUM(Revenue) Total_Sales
+  from Capstone_SalesData
+  Group by Product
+  Order by Total_Sales Desc
+```
+
+
 
 ### Table1
 ---
