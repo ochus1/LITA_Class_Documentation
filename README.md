@@ -6,7 +6,9 @@
 
 # **[Project 2](#project-title-customers-subscription-analysis)**
 
-# **[ClassWork 2](project-title-incubator-hub-hr-data-analysis)**
+# **[ClassWork 2](#project-title-incubator-hub-hr-data-analysis)**
+
+
 
 ### Project Title: Copier Sales Report
 
@@ -393,5 +395,6 @@ Find the most popular subscription type by the number of customers
 
 
 
-Project Title: Incubator Hub HR Data Analysis
+### Project Title: Incubator Hub HR Data Analysis
+
 
