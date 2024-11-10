@@ -403,5 +403,16 @@ The Incubator Hub HR Data Analysis is to have a deep insight into the attrition 
 ### Data Source:
 The Data source used In this Analysis is HR Data, a csv file containing just a table with one thousand four hundred and seventy rows and forty-one columns gotten freely from Kaggle [Download Here](https://www.kaggle.com).
 
+### Tools Used:
+Power BI for Data cleaning, Analysis and visualization as follows:
+- Promoted Headers.
+- Conditional column for Attrition count.
+- Conditional column for Age Sort.
+- Conditional column for job satisfaction rate.
+- Measures for Attrition rate and Average age.
+  
+GitHub for portfolio building.
+
+
 
 
