@@ -448,6 +448,52 @@ Attrition Rate:  Sum(Attrition Count)/sum(Employee Count) * 100
   
 Average Age:  Average(Age)
 
+### Problem Statement:
+- Find the total number of Employee.
+- Find the total Attrition.
+- Find current Employee.
+- Find Attrition count by Gender.
+- Find Attrition count by Department.
+
+### Data Analysis:
+Some lines of codes were used as follows:
+
+- Attrition Rate:  
+```
+Sum(Attrition Count)/sum(Employee Count) * 100
+```
+
+- Average Age:
+
+```
+Average(Age)
+```
+
+
+- Age Sort:
+  
+```
+   If CF_Age Band equals under 25 then output 1
+
+   If CF_Age Band equals 25-34 then output 2
+
+   If CF_Age Band equals 35-44 then output 3
+
+   If CF_Age Band equals 45-54 then output 4, else 5.
+```
+
+- Job Satisfaction Rate:
+  
+```
+   If Job Satisfaction equals 1 then output Very Dissatisfied
+  
+   If Job Satisfaction equals 2 then output Dissatisfied
+
+   If Job Satisfaction equals 3 then output Satisfied, else Very Satisfied.
+```
+  
+
+
 
 
 
