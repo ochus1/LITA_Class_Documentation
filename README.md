@@ -469,6 +469,13 @@ Sum(Attrition Count)/sum(Employee Count) * 100
 Average(Age)
 ```
 
+- Attrition Count:
+
+```
+If Attrition equals Yes then output 1, else o.
+```
+
+
 
 - Age Sort:
   
