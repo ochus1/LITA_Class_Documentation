@@ -397,4 +397,11 @@ Find the most popular subscription type by the number of customers
 
 ### Project Title: Incubator Hub HR Data Analysis
 
+### Project Overview: 
+The Incubator Hub HR Data Analysis is to have a deep insight into the attrition record of the Human Resource Department of the incubator Hub. Considering the Current Employee, Attrition, Age and Gender. The parameters from the given data helped to gather enough fact for this Analysis.  
+
+### Data Source:
+The Data source used In this Analysis is HR Data, a csv file containing just a table with one thousand four hundred and seventy rows and forty-one columns gotten freely from Kaggle [Download Here](https://www.kaggle.com).
+
+
 
