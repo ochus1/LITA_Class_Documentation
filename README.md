@@ -505,7 +505,12 @@ If Attrition equals Yes then output 1, else o.
    If Job Satisfaction equals 3 then output Satisfied, else Very Satisfied.
 ```
 
-### Conclusions and Recommendations:
+### Table3
+---
+![Power BI HR Table](https://github.com/user-attachments/assets/773116fb-720e-45d7-b323-3b4e60a2b1dc)
+
+
+### Conclusions and Recommendation3s:
 ---
 In conclusion the follow facts were gathered from the data set:
 - The Total number of Employee is 1,470.
@@ -527,6 +532,9 @@ Marketing is 35, Technical Degree is 32, Others is 11 and Human Resources is 7.
   
   Married: Male is 210 and Female is 117.
 
+
+### Data Visualization3:
+---
   
 
 
