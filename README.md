@@ -398,12 +398,15 @@ Find the most popular subscription type by the number of customers
 ### Project Title: Incubator Hub HR Data Analysis
 
 ### Project Overview: 
+---
 The Incubator Hub HR Data Analysis is to have a deep insight into the attrition record of the Human Resource Department of the incubator Hub. Considering the Current Employee, Attrition, Age and Gender. The parameters from the given data helped to gather enough fact for this Analysis.  
 
 ### Data Source:
+---
 The Data source used In this Analysis is HR Data, a csv file containing just a table with one thousand four hundred and seventy rows and forty-one columns gotten freely from Kaggle [Download Here](https://www.kaggle.com).
 
 ### Tools Used:
+---
 Power BI for Data cleaning, Analysis and visualization as follows:
 - Promoted Headers.
 - Conditional column for Attrition count.
@@ -414,6 +417,7 @@ Power BI for Data cleaning, Analysis and visualization as follows:
 GitHub for portfolio building.
 
 ### Data Cleaning and Preparations: 
+---
 I started the data cleaning and preparation as follows:
 
 - Data loading and inspection on Power BI 
@@ -449,6 +453,7 @@ Attrition Rate:  Sum(Attrition Count)/sum(Employee Count) * 100
 Average Age:  Average(Age)
 
 ### Problem Statement:
+---
 - Find the total number of Employee.
 - Find the total Attrition.
 - Find current Employee.
@@ -456,6 +461,7 @@ Average Age:  Average(Age)
 - Find Attrition count by Department.
 
 ### Data Analysis:
+---
 Some lines of codes were used as follows:
 
 - Attrition Rate:  
@@ -498,6 +504,29 @@ If Attrition equals Yes then output 1, else o.
 
    If Job Satisfaction equals 3 then output Satisfied, else Very Satisfied.
 ```
+
+### Conclusions and Recommendations:
+---
+In conclusion the follow facts were gathered from the data set:
+- The Total number of Employee is 1,470.
+- The Total number of Attrition is 237.
+- The Total number of Current Employee is 1,233.
+- Average Age is 37.
+- Attrition Rate is 16%.
+- Male recorded the highest attrition which is 150 and the female 87.
+- Attrition Count by Department: R&D is 133, Sales is 92 and HR is 12.
+- Attrition Count by Age Band in descending order:  25 - 34 is 112, 35 - 44 is 51, Under 25 is 38,  
+45 – 54 is 25 and Over 55 is 11.
+- Attrition Count by Educational Field in descending order:  Life Science is 89, Medical is 63,  
+Marketing is 35, Technical Degree is 32, Others is 11 and Human Resources is 7.
+- Employee Count by Gender and Marital Status:
+  
+  Married: Male is 401 and Female is 272.
+  
+  Single: Male is 271 and Female is 199.
+  
+  Married: Male is 210 and Female is 117.
+
   
 
 
