@@ -413,6 +413,43 @@ Power BI for Data cleaning, Analysis and visualization as follows:
   
 GitHub for portfolio building.
 
+### Data Cleaning and Preparations: 
+I started the data cleaning and preparation as follows:
+
+- Data loading and inspection on Power BI 
+
+- Conditional columns and measures were created. As shown below:
+
+- Attrition Count:
+
+If Attrition equals Yes then output 1, else o.
+
+- Age Sort:
+  
+If CF_Age Band equals under 25 then output 1
+
+If CF_Age Band equals 25-34 then output 2
+
+If CF_Age Band equals 35-44 then output 3
+
+If CF_Age Band equals 45-54 then output 4, else 5.
+
+- Job Satisfaction Rate:
+  
+If Job Satisfaction equals 1 then output Very Dissatisfied
+  
+If Job Satisfaction equals 2 then output Dissatisfied
+
+If Job Satisfaction equals 3 then output Satisfied, else Very Satisfied.
+  
+- Measures:
+  
+Attrition Rate:  Sum(Attrition Count)/sum(Employee Count) * 100
+  
+Average Age:  Average(Age)
+
+
+
 
 
 
