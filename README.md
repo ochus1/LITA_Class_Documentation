@@ -397,6 +397,11 @@ Find the most popular subscription type by the number of customers
 
 ### Project Title: Incubator Hub HR Data Analysis
 
+
+![20241102_122057](https://github.com/user-attachments/assets/fe2849ff-2e4d-4e51-9b76-a145cf6f395d)
+
+
+
 ### Project Overview: 
 ---
 The Incubator Hub HR Data Analysis is to have a deep insight into the attrition record of the Human Resource Department of the incubator Hub. Considering the Current Employee, Attrition, Age and Gender. The parameters from the given data helped to gather enough fact for this Analysis.  
@@ -538,8 +543,19 @@ Marketing is 35, Technical Degree is 32, Others is 11 and Human Resources is 7.
   
 
 
+![Employee By Gender](https://github.com/user-attachments/assets/0a7ea81b-2dde-46bc-907a-6dc86fe63647)
 
 
+![HR Dashboard](https://github.com/user-attachments/assets/c7acfaed-33e2-4b74-b67d-2c22f5224e21)
+
+
+
+
+
+
+
+
+![20241103_063102](https://github.com/user-attachments/assets/bcc38d0f-981d-49b7-b756-bf38e7484da5)
 
 
 
