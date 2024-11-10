@@ -401,16 +401,35 @@ Find the most popular subscription type by the number of customers
 ![20241102_122057](https://github.com/user-attachments/assets/fe2849ff-2e4d-4e51-9b76-a145cf6f395d)
 
 
+[Project Overview](#project-overview3)
 
-### Project Overview: 
+[Data Source](#data-source3)
+
+[Tools Used](#tools-used3)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations3)
+
+[Problem Statement](#problem-statement3)
+
+[Data Analysis](#data-analysis3)
+
+[Table](#table3)
+
+[Conclusions And Recommendations](#conclusions-and-recommendations3)
+
+[Data Visualization](#data-visualization3)
+
+
+
+### Project Overview3: 
 ---
 The Incubator Hub HR Data Analysis is to have a deep insight into the attrition record of the Human Resource Department of the incubator Hub. Considering the Current Employee, Attrition, Age and Gender. The parameters from the given data helped to gather enough fact for this Analysis.  
 
-### Data Source:
+### Data Source3:
 ---
 The Data source used In this Analysis is HR Data, a csv file containing just a table with one thousand four hundred and seventy rows and forty-one columns gotten freely from Kaggle [Download Here](https://www.kaggle.com).
 
-### Tools Used:
+### Tools Used3:
 ---
 Power BI for Data cleaning, Analysis and visualization as follows:
 - Promoted Headers.
@@ -421,7 +440,7 @@ Power BI for Data cleaning, Analysis and visualization as follows:
   
 GitHub for portfolio building.
 
-### Data Cleaning and Preparations: 
+### Data Cleaning and Preparations3: 
 ---
 I started the data cleaning and preparation as follows:
 
@@ -457,7 +476,7 @@ Attrition Rate:  Sum(Attrition Count)/sum(Employee Count) * 100
   
 Average Age:  Average(Age)
 
-### Problem Statement:
+### Problem Statement3:
 ---
 - Find the total number of Employee.
 - Find the total Attrition.
@@ -465,7 +484,7 @@ Average Age:  Average(Age)
 - Find Attrition count by Gender.
 - Find Attrition count by Department.
 
-### Data Analysis:
+### Data Analysis3:
 ---
 Some lines of codes were used as follows:
 
@@ -515,7 +534,7 @@ If Attrition equals Yes then output 1, else o.
 ![Power BI HR Table](https://github.com/user-attachments/assets/773116fb-720e-45d7-b323-3b4e60a2b1dc)
 
 
-### Conclusions and Recommendation3s:
+### Conclusions and Recommendations3:
 ---
 In conclusion the follow facts were gathered from the data set:
 - The Total number of Employee is 1,470.
