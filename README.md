@@ -94,8 +94,19 @@ I started the data cleaning and preparation as follows:
    | South-East			| 10,457,403,240	|	122,224    |
    | North-West			| 9,386,346,720		|	105,014    |
    | North-Central|		6,489,332,640	|		54,522    |
+
+
+![Excel Table](https://github.com/user-attachments/assets/8a23b66f-bf78-4aa1-87c0-84878891baad)
+
+
+
+![Power BI Table](https://github.com/user-attachments/assets/8a9de28a-24df-421a-8372-07ed55d39ad3)
+
+
+![Pivot](https://github.com/user-attachments/assets/3438339a-25b3-40ca-af22-6608302dbb3c)
+
+
   
-   
 ### Conclusions and Recommendations:
  - The Total Revenue was 73,000,000,000.
  
@@ -135,6 +146,10 @@ I started the data cleaning and preparation as follows:
 
 
 ![Copier sales report](https://github.com/user-attachments/assets/5c0014db-ed1f-4e30-ac4d-33afa757ebb1)
+
+
+
+![Power BI Dashboard](https://github.com/user-attachments/assets/27113d3e-2bb2-4723-9e62-855219358fb3)
 
 
 ![Thank You](https://github.com/user-attachments/assets/b67e04e7-dfd8-4e95-9f92-0870ca24209e)
