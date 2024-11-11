@@ -41,8 +41,10 @@
 
 ### Tools Used: 
 ----
-- Microsoft Excel for Data Cleaning, Analysis and Visualization [Download Here](https://microsoft.com)
+- Microsoft Excel to Cleaning by calculating transaction category column, Analysis and Visualize [Download Here](https://microsoft.com)
+- Power BI to Visualize [Download Here](https://powerbi.microsoft.com)
 - GitHub for portfolio Building [Download Here](https://github.com)
+  
 
 ### Data Cleaning and Preparations:
 ----
