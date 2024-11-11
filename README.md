@@ -37,7 +37,8 @@
 
 ### Data Sources:
 ----
- The data source used in the report is data sales, csv file, that was gotten freely from kaggle [Download Here](https://kaggle.com)
+The Data source used In this Analysis is Sales Data, a csv file containing just a table with Thirty Thousand Seven hundred and Ninety-Nine rows and Eleven columns gotten freely from Kaggle [Download Here](https://www.kaggle.com).
+
 
 ### Tools Used: 
 ----
@@ -48,9 +49,10 @@
 
 ### Data Cleaning and Preparations:
 ----
-We started the Data cleaning and preparation as follows:
-- Data loading and inspection.
-- Data cleaning and formatting.
+I started the data cleaning and preparation as follows:
+- Data loading and inspection on Microsoft Excel and calculating the transaction column.
+- Data loading and inspection on Power BI 
+
 
 ### Exploratory Data Analysis:
 ----
@@ -59,6 +61,12 @@ We started the Data cleaning and preparation as follows:
  - Which Region has the overall Sales trend.
  - What Month/Year recorded the highest Sales.
  - What Line Of Business has the highest unit sold
+ - Find the total revenue.
+ - Find the revenue in each region.
+ - Find the Highest revenue by store.
+ - Find total monthly revenue.
+ - Find the total revenue by line of business.
+
 
 ### Data Analysis:
 ----
@@ -68,11 +76,41 @@ We started the Data cleaning and preparation as follows:
    ```
 ### Table
 ----
+ - Transaction Category Column:
+   
    |Units Sold|Category|
    |----------|--------|
    |1 - 2|Low|
    |21 - 50|Medium|
    |> 50|High|
+
+- The Revenue by Region and Unit Sold is has follows:
+
+   |Region        |				Revenue     |			Unit Sold|
+   |--------------|----------------|------------|
+   | North-East			| 18,641,963,520	| 208,983    |
+   | South-West		 | 15,877,529,040	|	169,730    |
+   | South-South		|	12,179,415,120	|	126,189    |
+   | South-East			| 10,457,403,240	|	122,224    |
+   | North-West			| 9,386,346,720		|	105,014    |
+   | North-Central|		6,489,332,640	|		54,522    |
+  
+   
+### Conclusions and Recommendations:
+ - The Total Revenue was 73,000,000,000.
+ 
+ - Highest Revenue by store is Ankpa with a total Revenue of 1,713,355,320 and the lowest Revenue store is Boki with a total Revenue of 2.
+   
+ - Revenue by Line of Business:
+   
+   Copiers Sale  -  7,544,702,760
+   
+   Parts  -  7,564,215,600
+   
+   Printer Sale  -  6,056,589,960
+   
+   Service Plan  -  51,866,481,960				
+
 
 ### Data Visualization:
 ----
